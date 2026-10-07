@@ -1,0 +1,66 @@
+# OpenAI (ChatGPT Training)
+User-agent: GPTBot
+Disallow: /
+# OpenAI User Assistant (On-Demand AI Actions)
+User-agent: ChatGPT-User
+Disallow: /
+# OpenAI Search (ChatGPT Real-time Web Search)
+User-agent: OAI-SearchBot
+Disallow: /
+# Anthropic (Claude Training)
+User-agent: anthropic-ai
+Disallow: /
+# Anthropic Citations & Search
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+Disallow: /
+# Google Gemini Training & Research Agents
+User-agent: Google-Extended
+User-agent: Gemini-Deep-Research
+User-agent: GoogleAgent-Mariner
+User-agent: Google-NotebookLM
+User-agent: Google-Agent
+User-agent: GoogleAgent-URLContext
+Disallow: /
+# Meta (Facebook/Instagram AI Assistant & Training)
+User-agent: Meta-ExternalAgent
+User-agent: Meta-WebIndexer
+User-agent: FacebookBot
+Disallow: /
+# Common Crawl (Massive open dataset used by 90% of open-source LLMs)
+User-agent: CCBot
+Disallow: /
+# Apple (Apple Intelligence Training)
+User-agent: Applebot-Extended
+Disallow: /
+# ByteDance / TikTok (LLM Training)
+User-agent: Bytespider
+Disallow: /
+# Amazon (Bedrock & Titan LLM Training)
+User-agent: Amazonbot
+User-agent: AmazonBuyForMe
+User-agent: Amzn-SearchBot
+Disallow: /
+# Perplexity AI Search & Citations
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Disallow: /
+# Cohere AI Training
+User-agent: cohere-ai
+Disallow: /
+# Diffbot (Structured Knowledge AI Scraping)
+User-agent: Diffbot
+Disallow: /
+# Webz.io (Commercial AI Scraping Datasets)
+User-agent: Webz.io
+Disallow: /
+# Icecream Crawler (Massive AI dataset harvester)
+User-agent: ICC-Crawler
+Disallow: /
+
+# Allowlist for crawlers
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+Allow: /
