@@ -3,7 +3,13 @@
 !/.claude
 !/.cursor
 !/.github
+!/.windsurf
 
+!/.clineignore
 !/.codeiumignore
 !/.cursorignore
+!/.gitignore
+!/AGENTS.md
+!/CLAUDE.md
 !/README.md
+!/robots.txt
